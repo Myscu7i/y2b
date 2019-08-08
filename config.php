@@ -2,12 +2,12 @@
 define('ROOT_PART', Root_part());
 define('APIKEY', 'AIzaSyBtidzCPFXqlgCrJH5VzAYpW41GQOZwGDs');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('SITE_NAME', 'shit');
+define('TITLENAME', 'shit');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '3315147049@qq.com');
+define('EMAIL', 'jimmikaroll@hotmail.com');
 define('NAME', 'admin');
-define('PASSWORD', '06155');
+define('PASSWORD', 'admin');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
